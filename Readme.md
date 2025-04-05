@@ -1,4 +1,3 @@
-Sure! Here's a single, well-structured `README.md` file for your personal resume website:
 
 ---
 
